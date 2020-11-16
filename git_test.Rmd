@@ -14,4 +14,8 @@ Hi Katelyn! :D Happy R coding.
 Got it! Thanks!
 I think we're doing a good job! n_n
 Everything is working surprisingly well!
+<<<<<<< HEAD
 Hope this works...
+=======
+It is! Now we're going to make it crash.
+>>>>>>> 5e9954fcc3802c9707c46bc8d769bddaf68dae79
