@@ -10,3 +10,4 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Hi partner!
+Hi Katelyn! :D Happy R coding. 
