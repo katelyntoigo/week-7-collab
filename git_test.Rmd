@@ -11,3 +11,5 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Hi partner!
 Hi Katelyn! :D Happy R coding. 
+Got it! Thanks!
+I think we're doing a great job. n_n
